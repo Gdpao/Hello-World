@@ -1,4 +1,4 @@
-# Hello-World
+# Hello
 萌新play_one
 ## ~~Liquor Whisper~~
 ---
